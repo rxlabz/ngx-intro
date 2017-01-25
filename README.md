@@ -144,7 +144,7 @@ typings install dt~libname --global --save
 
 ![component_tree](https://simplyon2.github.io/support/img/ng_component_tree.jpg)
 
-Chaque composant est une classes TS, marquée de l'annotation @Component().
+Chaque composant est une classe TS, marquée de l'annotation @Component().
 
 Chaque composant est constitué :
 - de la classe,
@@ -175,10 +175,9 @@ ng new ng-demo
 
 - src/
   - app : composants, classes et services de l'application
-  - assets : composants, classes et services de l'application
   - environments : variable d'environnements pour configuration de la compilation
   - index.html, main.ts, tsconfig.json...
-- / package.json, angular-cli.json, [karma.conf.js](http://karma-runner.github.io/1.0/index.html),
+- les configs : / package.json, angular-cli.json, [karma.conf.js](http://karma-runner.github.io/1.0/index.html),
 [tslint.json](https://palantir.github.io/tslint/), [protractor.conf.js](https://github.com/angular/protractor)
 
 
