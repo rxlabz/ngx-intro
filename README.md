@@ -254,15 +254,20 @@ export class HeroListComponent implements OnInit {
   - intro aux [observables]()
   
 => [Exemple](https://github.com/rxlabz/ng2_compocom)
+
+
+#### Annexes : Programmation réactive (fonctionnelle)
+
+Angular 2 utilise la librairie RxJs dans plusieurs API. Cette librairie offre une implémentation 
+du concept d'Observable pour le web. Le principe d'observable RX est proche du principe de Stream 
+d'autres languages ( Java, Dart). 
+
+- [Introduction Reactive Extension](http://reactivex.io/intro.html)  
+- [Learn RX](http://github.com/jhusain/learnrxjava/) : exercices de préparation au "paradigme fonctionnel réactif" 
+- [RxJs : Reactive Extension pour le web](https://github.com/ReactiveX/rxjs)
   
 - composants sans liaison directe
   - services
-
-#### Annexes
-
-- [Learn RX](http://github.com/jhusain/learnrxjava/) 
-- [Rx](http://reactivex.io/intro.html)
-- [RxJs](https://github.com/ReactiveX/rxjs)
 
 ### Injection de dépendances
 
