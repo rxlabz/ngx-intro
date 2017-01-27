@@ -1,3 +1,6 @@
 [submodule "ng2_compocom"]
 	path = ng2_compocom
 	url = https://github.com/rxlabz/ng2_compocom
+[submodule "ng2-route-guards"]
+	path = ng2-route-guards
+	url = https://github.com/rxlabz/ng2-route-guards
